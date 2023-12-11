@@ -1,3 +1,3 @@
 High distinction capstone project for COS20019 - Cloud Computing Architectures. 
 
-![Cloud Architecture Diagram](https://github.com/John-Iliadis/Cloud-Computing-Architectures-Capstone-Project/assets/124552848/f978bc95-4b38-4ac0-a793-58e324ab7f5a)
+![diagram drawio (2)](https://github.com/John-Iliadis/Cloud-Computing-Architectures-Capstone-Project/assets/124552848/77c40eee-9d65-4e49-b791-2c3ceda252b8)
